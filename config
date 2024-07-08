@@ -1,0 +1,8 @@
+deploy_password=q1w2e3r4=
+mysql_root_password=q1w2e3r4=
+db_pass=q1w2e3r4=
+jwt_secret=q1w2e3r4
+jwt_refresh_secret=q1w2e3r4
+deploy_email=aldesignergrafico@gmail.com
+db_user=root
+db_name=whaticket
